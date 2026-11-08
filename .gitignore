@@ -76,6 +76,15 @@ DerivedDataCache/*
 
 
 
-Content/__ExternalActors__
-Content/__ExternalObjects__
+Content/__ExternalActors__/*
+Content/__ExternalObjects__/*
 
+UE14.uproject
+Content/Untitled_HLOD0_Instancing.uasset
+Content/Untitled.umap
+Content/UE14/Blueprints/Actors/BP_Character.uasset
+Content/UE14/Blueprints/Actors/BP_Actor.uasset
+Config/DefaultInput.ini
+Config/DefaultGame.ini
+Config/DefaultEngine.ini
+Config/DefaultEditor.ini
